@@ -1,4 +1,4 @@
-# Us-Regional-Sales-Analysis
+# Regional-Sales-Analysis
 # Regional Sales Analysis
 
 ## Project Overview
